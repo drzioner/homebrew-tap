@@ -3,8 +3,8 @@ class Gitwise < Formula
 
   desc "Python CLI for optimizing git workflows and Claude Code integration"
   homepage "https://github.com/drzioner/gitwise"
-  url "https://files.pythonhosted.org/packages/72/6e/eb3f16aac387b0a9b02e59b399a49e5f7fb581a206a92922f629b4e6c8fe/gitwise_cli-0.33.1.tar.gz"
-  sha256 "d2b9ccad957be63eb5bfa7120cb15bbb998ea5b5b3eaf42fcfa119096543e7db"
+  url "https://files.pythonhosted.org/packages/1b/22/45cb16e748cc6b94d249cd7ad45bf9fed031d81f0ced7ceebb14f28c3427/gitwise_cli-0.36.1.tar.gz"
+  sha256 "2f788454ed74d807656adc7ceb97bcca6e2b1837bde379ad616eddb861056b49"
   license "MIT"
   head "https://github.com/drzioner/gitwise.git", branch: "main"
 
